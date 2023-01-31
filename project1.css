@@ -1,0 +1,38 @@
+.ab
+{
+    height: 15vh;
+    width: 15vh;
+}
+.head
+{
+    display: flex;
+    align-items: flex-end;
+    box-sizing: border-box;
+    background-color: cadetblue;
+
+}
+.main
+{
+    display: flex;
+    background-color: rgb(43, 184, 235);
+     height: 85vh;
+     object-fit: cover;
+
+    /* background: linear-gradient( rgb(12, 174, 233),white) */
+
+}
+.h1
+{
+    padding: 50px;
+    color: antiquewhite;
+}
+.h3
+{
+    height: 70vh;
+    border-radius: 40vh;
+}
+.nav
+{
+  position: relative;
+  left: 70vw;
+}
